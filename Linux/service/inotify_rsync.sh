@@ -17,7 +17,10 @@ rsync_log='/tmp/rsync.log'
 
 inotifywait -mrq -e modify,attrib,moved_to,moved_from,move,move_self,create,delete,delete_self --timefmt='%d/%m/%y %H:%M' --format='%T %w%f %e' $src | while read chgeFile
 do
-    [[ $(wc -c ${rsync_log} | awk '{print $1}') -gt 1024000 ]]  &&  $(>${rsync_log})
+    if [[ -f ${rsync_log}  ]]
+    then
+        [[ $(wc -c ${rsync_log} | awk '{print $1}') -gt 1024000 ]]  &&  $(>${rsync_log})
+    fi
     rsync -avPz  $src $user@$host:$dest &>>${rsync_log}
 done
 
