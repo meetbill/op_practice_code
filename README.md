@@ -18,3 +18,6 @@
         * [ftp 一键化管理](./Linux/service/ftptool.sh)
         * [inotify_rsync 实时同步脚本](./Linux/service/inotify_rsync.sh)
         * [telnet-server 一键化管理(本地源)](./Linux/service/telnet-server.tar.gz)
+* 数据库
+    * mysql
+        * [编译安装mysql5.6](./mysql/build_mysql.sh)
