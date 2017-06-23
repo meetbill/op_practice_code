@@ -24,3 +24,6 @@
 * 云计算 
     * docker
         * [Centos7.3 docker-ce1703 离线安装包](./cloud/docker/docker_install.tar.gz)
+* web
+    * django
+        * [uWSGI 程序](./web/django/uwsgi.tar.gz)
