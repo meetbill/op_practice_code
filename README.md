@@ -21,9 +21,11 @@
 * 数据库
     * mysql
         * [编译安装mysql5.6](./mysql/build_mysql.sh)
-* 云计算 
+* 云计算
     * docker
         * [Centos7.3 docker-ce1703 离线安装包](./cloud/docker/docker_install.tar.gz)
+    * 阿里云
+        * [使用 api 控制 ECS](./cloud/aliyun/ecs/)
 * web
     * django
         * [uWSGI 程序](./web/django/uwsgi.tar.gz)
