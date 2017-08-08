@@ -21,6 +21,10 @@
 * 数据库
     * mysql
         * [编译安装mysql5.6](./mysql/build_mysql.sh)
+* 存储篇
+    * 磁盘及RAID相关
+        * [RAID 动画显示](./store/RAID/raid.exe)
+        * [smartctl 检测硬盘](./store/diskcheck.sh)
 * 云计算
     * docker
         * [Centos7.3 docker-ce1703 离线安装包](./cloud/docker/docker_install.tar.gz)
