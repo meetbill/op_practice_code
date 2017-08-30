@@ -14,6 +14,7 @@
     * Linux 工具
         * [一键打造 Vim IDE](https://github.com/BillWang139967/Vim)
         * [开启 screen 状态栏](./Linux/tools/screen.sh)
+        * [非交互的ssh 密码验证 sshpass](./Linux/tools/sshpass.md)
     * 常见服务架设
         * [ftp 一键化管理](./Linux/service/ftptool.sh)
         * [inotify_rsync 实时同步脚本](./Linux/service/inotify_rsync.sh)
