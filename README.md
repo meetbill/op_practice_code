@@ -32,7 +32,7 @@
     * 阿里云
         * [使用 api 控制 ECS](./cloud/aliyun/ecs/)
     * aws 
-        * [s3cmd 安装包](./cloud/aws/s3cmd-2.0.0.tar.gz)
+        * [s3cmd 安装包](https://raw.githubusercontent.com/BillWang139967/op_practice_code/master/cloud/aws/s3cmd-2.0.0.tar.gz)
 * web
     * django
         * [uWSGI 程序](./web/django/uwsgi.tar.gz)
