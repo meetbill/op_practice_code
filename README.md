@@ -9,8 +9,6 @@
 * Linux
     * 常用运维工具
         * [查看 java 进程中线程 CPU 占用排序](./Linux/op/show-busy-java-threads.sh)
-    * python
-        * [在本地 python 交互模式下添加自动补全功能](./Linux/python/pythonstartup.sh)
     * Linux 工具
         * [一键打造 Vim IDE](https://github.com/BillWang139967/Vim)
         * [开启 screen 状态栏](./Linux/tools/screen.sh)
