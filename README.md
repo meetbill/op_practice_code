@@ -1,5 +1,8 @@
 # op_practice_code
-《运维实践指南》程序
+
+《运维实践指南》程序/软件仓库
+
+有些软件包网上不容易找到，好不容易找到后也会记录到这里
 
 * [网上阅读(推荐)](https://billwang139967.gitbooks.io/op_practice_book/content/)
 * [下载本书(pdf)](https://www.gitbook.com/download/pdf/book/billwang139967/op_practice_book)
@@ -22,7 +25,8 @@
         * [编译安装mysql5.6](./mysql/build_mysql.sh)
 * 存储篇
     * 磁盘及RAID相关
-        * [RAID 动画显示](./store/RAID/raid.exe)
+        * [RAID 动画下载](./store/RAID/raid.exe)
+        * [StorCLI下载](./store/RAID/20170927_storcli.zip)
         * [smartctl 检测硬盘](./store/diskcheck.sh)
 * 云计算
     * docker
