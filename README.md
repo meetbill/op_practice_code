@@ -16,14 +16,15 @@
         * [一键打造 Vim IDE](https://github.com/BillWang139967/Vim)
         * [开启 screen 状态栏](./Linux/tools/screen.sh)
         * [非交互的ssh 密码验证 sshpass](./Linux/tools/sshpass/sshpass.md)
-        * [speedtest-tools](./Linux/tools/speedtest-tool/README.md) 
+        * [Speedtest-tools](./Linux/tools/speedtest-tool/README.md) 
+        * [Python 服务启动程序](./Linux/tools/setup/run.sh)
     * 常见服务架设
-        * [ftp 一键化管理](./Linux/service/ftptool.sh)
-        * [inotify_rsync 实时同步脚本](./Linux/service/inotify_rsync.sh)
-        * [telnet-server 一键化管理(本地源)](./Linux/service/telnet-server.tar.gz)
+        * [Ftp 一键化管理](./Linux/service/ftptool.sh)
+        * [Inotify_rsync 实时同步脚本](./Linux/service/inotify_rsync.sh)
+        * [Telnet-server 一键化管理(本地源)](./Linux/service/telnet-server.tar.gz)
 * 数据库
     * mysql
-        * [编译安装mysql5.6](./mysql/build_mysql.sh)
+        * [编译安装 MySQL 5.6](./mysql/build_mysql.sh)
 * 存储篇
     * 磁盘及RAID相关
         * [RAID 动画下载](./store/RAID/raid.exe)
@@ -31,11 +32,13 @@
         * [smartctl 检测硬盘](./store/diskcheck.sh)
 * 云计算
     * docker
-        * [Centos7.3 docker-ce1703 离线安装包](./cloud/docker/docker_install.tar.gz)
+        * [CentOS7.3 docker-ce1703 离线安装包](./cloud/docker/docker_install.tar.gz)
     * 阿里云
         * [使用 api 控制 ECS](./cloud/aliyun/ecs/)
     * aws 
-        * [s3cmd 安装包](https://raw.githubusercontent.com/BillWang139967/op_practice_code/master/cloud/aws/s3cmd-2.0.0.tar.gz)
+        * [S3cmd 安装包](https://raw.githubusercontent.com/BillWang139967/op_practice_code/master/cloud/aws/s3cmd-2.0.0.tar.gz)
 * web
     * django
         * [uWSGI 程序](./web/django/uwsgi.tar.gz)
+* windows 工具
+    * [替换 Windows host 文件脚本](./windows_tools/alter_hosts)
