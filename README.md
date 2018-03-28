@@ -18,6 +18,9 @@
         * [非交互的ssh 密码验证 sshpass](./Linux/tools/sshpass/sshpass.md)
         * [Speedtest-tools](./Linux/tools/speedtest-tool/README.md) 
         * [Python 服务启动程序](./Linux/tools/setup/run.sh)
+        * git 
+            * [git 命令自动补全](./Linux/tools/git/git-completion/) 
+            * [命令行显示 git 信息](./Linux/tools/git/git-ps1/)
     * 常见服务架设
         * [Ftp 一键化管理](./Linux/service/ftptool.sh)
         * [Inotify_rsync 实时同步脚本](./Linux/service/inotify_rsync.sh)
