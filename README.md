@@ -1,5 +1,9 @@
 # op_practice_code
 
+[![GitHub stars](https://img.shields.io/github/stars/meetbill/op_practice_code.svg?style=social&label=Star)](https://github.com/meetbill/op_practice_code/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/meetbill/op_practice_code.svg?style=social&label=Fork)](https://github.com/meetbill/op_practice_code/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/meetbill/op_practice_code.svg?style=social&label=Watch)](https://github.com/meetbill/op_practice_code/watchers)
+
 《运维实践指南》程序/软件仓库
 
 有些软件包网上不容易找到，好不容易找到后也会记录到这里
@@ -13,7 +17,7 @@
     * 常用运维工具
         * [查看 java 进程中线程 CPU 占用排序](./Linux/op/show-busy-java-threads.sh)
     * Linux 工具
-        * [一键打造 Vim IDE](https://github.com/BillWang139967/Vim)
+        * [一键打造 Vim IDE](https://github.com/meetbill/Vim)
         * [开启 screen 状态栏](./Linux/tools/screen.sh)
         * [非交互的ssh 密码验证 sshpass](./Linux/tools/sshpass/sshpass.md)
         * [Speedtest-tools](./Linux/tools/speedtest-tool/README.md) 
@@ -39,9 +43,7 @@
     * 阿里云
         * [使用 api 控制 ECS](./cloud/aliyun/ecs/)
     * aws 
-        * [S3cmd 安装包](https://raw.githubusercontent.com/BillWang139967/op_practice_code/master/cloud/aws/s3cmd-2.0.0.tar.gz)
+        * [S3cmd 安装包](https://raw.githubusercontent.com/meetbill/op_practice_code/master/cloud/aws/s3cmd-2.0.0.tar.gz)
 * web
-    * django
-        * [uWSGI 程序](./web/django/uwsgi.tar.gz)
 * windows 工具
     * [替换 Windows host 文件脚本](./windows_tools/alter_hosts)
